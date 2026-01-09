@@ -15,10 +15,7 @@ def update_ordered_targets(
     track_numeric: Dict[str, float],
     emoji: str,
 ) -> Dict[str, float]:
-    """
-    Move user's numeric preferences slightly toward (like) or away (dislike)
-    from the track's numeric values.
-    """
+   
     s = EMOJI_TO_SCORE.get(emoji, 0)
     if s == 0:
         return ordered_targets
@@ -45,10 +42,7 @@ def update_categorical_affinity(
     track: Dict[str, Any],
     emoji: str,
 ) -> Dict[str, Dict[str, float]]:
-    """
-    Increment counters for categories user likes/dislikes.
-    You already normalize this later by /5.0 in scoring.
-    """
+    
     s = EMOJI_TO_SCORE.get(emoji, 0)
     if s == 0:
         return categorical_affinity
