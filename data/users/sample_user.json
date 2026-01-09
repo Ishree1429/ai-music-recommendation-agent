@@ -1,0 +1,18 @@
+{
+  "user_id": "user_001",
+  "personality": {
+    "Social_Orientation": "Ambivert",
+    "Structure_Preference": "Flexible",
+    "Motivation_Style": "Growth-Oriented",
+    "Emotional_Style": "Sensitive/Stress-Prone",
+    "Thinking_Style": "Creative",
+    "Learning_Style": "Visual",
+    "Risk_Novelty_Orientation": "Novelty-Seeker",
+    "Values_Orientation": "Individualist"
+  },
+  "current_state": {
+    "mood": "stressed",
+    "energy_level": "low"
+  }
+}
+

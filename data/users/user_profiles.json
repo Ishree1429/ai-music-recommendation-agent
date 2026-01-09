@@ -1,0 +1,110 @@
+[
+  {
+    "firebase_uid": "uid_1",
+    "created_at": "NOW()",
+    "updated_at": "NOW()",
+    "user_profile": {
+      "name": "Sarah Chen",
+      "Personality": {
+        "Social_Orientation": { "answer": "Ambivert", "score": 0.8 },
+        "Structure_Preference": { "answer": "Flexible", "score": 0.9 },
+        "Motivation_Style": { "answer": "Growth-Oriented", "score": 1.0 },
+        "Emotional_Style": { "answer": "Balanced", "score": 0.7 },
+        "Thinking_Style": { "answer": "Creative", "score": 0.95 },
+        "Learning_Style": { "answer": "Visual", "score": 0.85 },
+        "Risk_Novelty_Orientation": { "answer": "Novelty-Seeker", "score": 0.8 },
+        "Values_Orientation": { "answer": "Balanced", "score": 0.75 }
+      }
+    }
+  },
+  {
+    "firebase_uid": "uid_2",
+    "created_at": "NOW()",
+    "updated_at": "NOW()",
+    "user_profile": {
+      "name": "Michael Roberts",
+      "Personality": {
+        "Social_Orientation": { "answer": "Introvert", "score": 0.9 },
+        "Structure_Preference": { "answer": "Structured", "score": 0.95 },
+        "Motivation_Style": { "answer": "Achievement-Oriented", "score": 0.9 },
+        "Emotional_Style": { "answer": "Rational", "score": 0.85 },
+        "Thinking_Style": { "answer": "Analytical", "score": 1.0 },
+        "Learning_Style": { "answer": "Logical", "score": 0.9 },
+        "Risk_Novelty_Orientation": { "answer": "Conservative", "score": 0.8 },
+        "Values_Orientation": { "answer": "Traditional", "score": 0.85 }
+      }
+    }
+  },
+  {
+    "firebase_uid": "uid_3",
+    "created_at": "NOW()",
+    "updated_at": "NOW()",
+    "user_profile": {
+      "name": "Priya Patel",
+      "Personality": {
+        "Social_Orientation": { "answer": "Extrovert", "score": 0.95 },
+        "Structure_Preference": { "answer": "Flexible", "score": 0.8 },
+        "Motivation_Style": { "answer": "Social-Oriented", "score": 0.9 },
+        "Emotional_Style": { "answer": "Expressive", "score": 0.85 },
+        "Thinking_Style": { "answer": "Intuitive", "score": 0.8 },
+        "Learning_Style": { "answer": "Kinesthetic", "score": 0.75 },
+        "Risk_Novelty_Orientation": { "answer": "Adventurous", "score": 0.9 },
+        "Values_Orientation": { "answer": "Community-Focused", "score": 0.95 }
+      }
+    }
+  },
+  {
+    "firebase_uid": "uid_4",
+    "created_at": "NOW()",
+    "updated_at": "NOW()",
+    "user_profile": {
+      "name": "David Chen",
+      "Personality": {
+        "Social_Orientation": { "answer": "Introvert", "score": 0.8 },
+        "Structure_Preference": { "answer": "Highly Structured", "score": 1.0 },
+        "Motivation_Style": { "answer": "Achievement-Oriented", "score": 0.95 },
+        "Emotional_Style": { "answer": "Rational", "score": 0.9 },
+        "Thinking_Style": { "answer": "Analytical", "score": 1.0 },
+        "Learning_Style": { "answer": "Logical", "score": 0.95 },
+        "Risk_Novelty_Orientation": { "answer": "Conservative", "score": 0.85 },
+        "Values_Orientation": { "answer": "Traditional", "score": 0.8 }
+      }
+    }
+  },
+  {
+    "firebase_uid": "uid_5",
+    "created_at": "NOW()",
+    "updated_at": "NOW()",
+    "user_profile": {
+      "name": "Sofia Garcia",
+      "Personality": {
+        "Social_Orientation": { "answer": "Extrovert", "score": 1.0 },
+        "Structure_Preference": { "answer": "Flexible", "score": 0.8 },
+        "Motivation_Style": { "answer": "Social-Oriented", "score": 0.95 },
+        "Emotional_Style": { "answer": "Expressive", "score": 0.9 },
+        "Thinking_Style": { "answer": "Intuitive", "score": 0.85 },
+        "Learning_Style": { "answer": "Social", "score": 1.0 },
+        "Risk_Novelty_Orientation": { "answer": "Adventurous", "score": 0.9 },
+        "Values_Orientation": { "answer": "Community-Focused", "score": 0.95 }
+      }
+    }
+  },
+  {
+    "firebase_uid": "uid_6",
+    "created_at": "NOW()",
+    "updated_at": "NOW()",
+    "user_profile": {
+      "name": "Maya Patel",
+      "Personality": {
+        "Social_Orientation": { "answer": "Ambivert", "score": 0.75 },
+        "Structure_Preference": { "answer": "Balanced", "score": 0.8 },
+        "Motivation_Style": { "answer": "Growth-Oriented", "score": 0.9 },
+        "Emotional_Style": { "answer": "Empathetic", "score": 1.0 },
+        "Thinking_Style": { "answer": "Holistic", "score": 0.85 },
+        "Learning_Style": { "answer": "Experiential", "score": 0.9 },
+        "Risk_Novelty_Orientation": { "answer": "Balanced", "score": 0.8 },
+        "Values_Orientation": { "answer": "Humanitarian", "score": 0.95 }
+      }
+    }
+  }
+]

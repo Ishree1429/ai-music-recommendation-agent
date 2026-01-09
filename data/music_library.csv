@@ -1,0 +1,44 @@
+track_id,title,artist,genre,energy,intensity_type,danceability,emotional_tags,tempo,therapy_tags,lyrics_intensity
+t_001,Soft Rain Focus,Calm Studio,cinematic_ambient,low,ambient,low,calm,slow,"anxiety_relief;focus",instrumental
+t_002,Gentle Morning Sun,Indie Hearts,soft_indie,medium,soft_piano,low,uplifting,medium,"mood_boost",positive
+t_003,Night Study Loops,LoFi Ninjas,lofi_chill,low,ambient,medium,calm,medium,"focus",instrumental
+t_004,Hopeful Steps,Chill Beats,chillhop,medium,ambient,medium,uplifting,medium,"mood_boost;focus",neutral
+t_005,Deep Sleep Waves,Dreamscape,cinematic_ambient,low,ambient,low,calm,slow,"sleep;anxiety_relief",instrumental
+t_006,Quiet Aurora,Elena Muse,lofi,slow,low,ambient,low,calm,anxiety_relief,instrumental
+t_007,Golden Hour Echo,Ray Solaris,soft_indie,medium,medium,soft_piano,medium,uplifting,mood_boost,positively_uplifting
+t_008,Dreamsafe Harbor,Luna Drift,piano_instrumental,slow,low,ambient,low,calm,sleep,instrumental
+t_009,Forest Hues,Arden Wells,gentle_experimental,medium,low,ambient,low,calm,focus,instrumental
+t_010,Urban Sunlit Walk,LoWave,chillhop,medium,medium,ambient,medium,uplifting,focus,instrumental
+t_011,Midnight Mindcleanse,The Quiet Lab,ambient_electronic,slow,low,ambient,low,calm,anxiety_relief,instrumental
+t_012,Flare of Courage,Auric Path,cinematic_soundtrack,fast,high,edm_drops,high,uplifting,mood_boost,positively_uplifting
+t_013,Rainy Day Letters,Harper Sage,acoustic_folk,slow,low,soft_piano,low,sad,anxiety_relief,neutral
+t_014,Paper Skies,Velvet Motion,lofi,medium,low,ambient,low,calm,focus,instrumental
+t_015,Home Beyond Stars,Nova Lyre,cinematic_soundtrack,medium,medium,ambient,medium,uplifting,mood_boost,positively_uplifting
+t_016,Midnight Breathing,AuraNova,low,slow,low,ambient,instrumental,calm,anxiety_relief,ambient
+t_017,Soft Moon Waves,AuraNova,low,slow,low,ambient,instrumental,calm,sleep,ambient
+t_018,Stillness Field,QuietMind,low,slow,low,soft_piano,instrumental,calm,anxiety_relief,neoclassical
+t_019,Drift Into Quiet,QuietMind,low,slow,low,ambient,instrumental,calm,sleep,ambient
+t_020,Night Sky Lullaby,LucentKeys,low,slow,low,soft_piano,instrumental,calm,sleep,piano
+t_021,Deep Focus Grid,ThinkFlow,low,medium,low,ambient,instrumental,neutral,focus,lofi
+t_022,Code in Silence,ThinkFlow,low,medium,low,ambient,instrumental,neutral,focus,lofi
+t_023,Minimal Motion,NeuroBeats,low,medium,low,ambient,instrumental,neutral,focus,ambient
+t_024,Calm Algorithms,NeuroBeats,medium,medium,low,soft_piano,instrumental,neutral,focus,neoclassical
+t_025,Quiet Productivity,NeuroBeats,medium,medium,low,soft_piano,instrumental,neutral,focus,piano
+t_026,Healing Light,HeartTone,medium,slow,low,soft_piano,uplifting_positive_lyrics,uplifting,mood_boost,acoustic
+t_027,After the Rain,HeartTone,medium,medium,low,soft_piano,uplifting_positive_lyrics,uplifting,mood_boost,indie
+t_028,Soft Hope Rising,HeartTone,medium,medium,low,cinematic,uplifting_positive_lyrics,uplifting,mood_boost,cinematic
+t_029,Gentle Courage,OpenSky,medium,medium,medium,cinematic,uplifting_positive_lyrics,uplifting,mood_boost,cinematic
+t_030,Slow Sunrise,OpenSky,medium,slow,low,soft_piano,uplifting_positive_lyrics,uplifting,mood_boost,acoustic
+t_031,Electric Pulse,NeonDrive,high,fast,high,EDM_drops,uplifting_positive_lyrics,uplifting,mood_boost,edm
+t_032,Move the Night,NeonDrive,high,fast,high,EDM_drops,uplifting_positive_lyrics,excited,mood_boost,edm
+t_033,City Lights Run,BeatTheory,high,fast,high,EDM_drops,neutral_lyrics,excited,mood_boost,dance
+t_034,Weekend Fire,BeatTheory,high,fast,high,EDM_drops,uplifting_positive_lyrics,excited,mood_boost,dance
+t_035,Rise and Bounce,BeatTheory,high,fast,high,EDM_drops,uplifting_positive_lyrics,excited,mood_boost,edm
+t_036,Starlight Passage,CineWave,medium,slow,low,cinematic,instrumental,calm,focus,cinematic
+t_037,Beyond the Horizon,CineWave,medium,medium,low,cinematic,instrumental,inspired,focus,cinematic
+t_038,Fragments of Wonder,CineWave,medium,medium,low,cinematic,instrumental,inspired,mood_boost,cinematic
+t_039,Inner Worlds,StoryScape,medium,slow,low,cinematic,instrumental,calm,anxiety_relief,cinematic
+t_040,Quiet Epic,StoryScape,medium,medium,low,cinematic,instrumental,inspired,focus,cinematic
+
+
+
