@@ -65,7 +65,7 @@ What this does:
 
 ❖ Provide feedback on a recommended track
 - Example: user reacts positively to a recommended track.
-       python -m scripts.run_feedback \ --user-id UID3 \ --track-id track_012 \ --emoji "😍"
+       python -m scripts.run_feedback \ --user-id UID3 \ --track-id t_012 \ --emoji "😍"
 What this does:
 1) Records feedback for UID3
 2) Updates preference weights (learning step)
